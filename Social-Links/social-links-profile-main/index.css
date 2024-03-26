@@ -1,3 +1,10 @@
-body{
-    background-color: black;
-}
+/* body{
+    background-color: hsl(0, 0%, 8%);
+} */
+
+#centered-button {
+    width: 200px; /* Sets the width of the button */
+    height: 200px; /* Sets the height of the button */
+    background-color: #007BFF; /* Sets the background color of the button */
+    border: none;
+   }
